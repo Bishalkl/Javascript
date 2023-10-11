@@ -1,0 +1,14 @@
+Variable Swap:
+Create two variables, a and b, and swap their values without using a third variable.
+
+Calculate Area:
+Write a program that calculates the area of a rectangle. Declare two variables, width and height, and assign them values. Then, calculate and print the area (area = width * height).
+
+String Length:
+Create a variable called str and assign it a string of your choice. Calculate and display the length of the string using the length property.
+
+Temperature Conversion:
+Create a variable celsius and assign it a temperature in Celsius. Convert it to Fahrenheit and display the result. The formula for conversion is: Fahrenheit = (Celsius * 9/5) + 32.
+
+Even or Odd:
+Declare a variable number and assign it a number. Write a program to check if the number is even or odd, and display the result.
