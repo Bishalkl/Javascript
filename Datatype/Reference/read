@@ -1,0 +1,6 @@
+Collection Data Types:
+
+Array: An ordered collection of values, usually of the same data type. Elements in an array are accessed by their index.
+List: Similar to an array, but in some languages, lists can dynamically change in size.
+Dictionary or Map: Represents a collection of key-value pairs, allowing you to access values by their associated keys.
+Set: Represents an unordered collection of unique values.
