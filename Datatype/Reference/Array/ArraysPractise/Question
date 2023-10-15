@@ -1,0 +1,20 @@
+Student Grades:
+
+Calculate and print the average grade for the students.
+Find and display the highest and lowest grades in the array.
+To-Do List:
+
+Add a new task to the to-do list, and then remove it.
+Check if a specific task (e.g., "Buy groceries") is in the list.
+Fruit Basket:
+
+Sort the fruits in alphabetical order and display the sorted list.
+Find and print the index of "kiwi" in the array.
+Stock Prices:
+
+Calculate the daily percentage change in stock prices.
+Determine the days when the stock price increased from the previous day.
+User Names:
+
+Add a new username to the list, but ensure it's unique (not already in the array).
+Search for a specific username and display whether it exists in the array.
